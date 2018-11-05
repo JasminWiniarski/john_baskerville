@@ -6,3 +6,9 @@ Monday 29th October 18'
 
 Added first HTML page
 
+homework week 6
+
+[History of Type]
+
+(https://jasminwiniarski.github.io/john_baskerville/History_of_Type.html)
+
