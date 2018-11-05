@@ -8,7 +8,5 @@ Added first HTML page
 
 homework week 6
 
-[History of Type]
-
-(https://jasminwiniarski.github.io/john_baskerville/History_of_Type.html)
+[History of Type](https://jasminwiniarski.github.io/john_baskerville/History_of_Type.html)
 
