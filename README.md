@@ -1,10 +1,12 @@
 #john_baskerville
 
-Monday 29th October 18'
+###29th October 2018
 
 [John Baskerville](https://jasminwiniarski.github.io/john_baskerville/john_baskerville1.html)
-
 Added first HTML page
+
+###05 November 2018
+[John Baskerville2](https://jasminwiniarski.github.io/john_baskerville/john_baskerville2.html)
 
 homework week 6
 
