@@ -15,3 +15,5 @@ homework week 6
 [History of Type](https://jasminwiniarski.github.io/john_baskerville/history_of_type.html)
 
 ### homework week 7 05Nov2018
+
+[History of type](https://jasminwiniarski.github.io/john_baskerville/history_of_type.html)
