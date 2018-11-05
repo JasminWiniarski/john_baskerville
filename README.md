@@ -12,6 +12,6 @@ Added first HTML page
 
 homework week 6
 
-[History of Type](https://jasminwiniarski.github.io/john_baskerville/History_of_Type.html)
+[History of Type](https://jasminwiniarski.github.io/john_baskerville/history_of_type.html)
 
-<!-- change domain to historyoftype.html or history_of_type -->
+### homework week 7 05Nov2018
