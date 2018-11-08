@@ -6,14 +6,15 @@
 
 Added first HTML page
 
-### 05 November 2018
+#### 05 November 2018
 
 [John Baskerville2](https://jasminwiniarski.github.io/john_baskerville/john_baskerville2.html)
 
-homework week 6
+## History of Type
+#### homework week 6
 
-[History of Type](https://jasminwiniarski.github.io/john_baskerville/history_of_type.html)
+[History of Type](https://jasminwiniarski.github.io/john_baskerville/historyoftype.html)
 
-### homework week 7 05Nov2018
+#### homework week 7 05Nov2018
 
-[History of type](https://jasminwiniarski.github.io/john_baskerville/history_of_type.html)
+[History of type](https://jasminwiniarski.github.io/john_baskerville/historyoftype2.html)
