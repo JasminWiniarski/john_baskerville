@@ -27,4 +27,4 @@ Added tables and images
 #### homework week 8 12Nov2018
 [History of Type](https://jasminwiniarski.github.io/john_baskerville/historyoftype3.html)
 
-added table
+added table and images
