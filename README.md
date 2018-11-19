@@ -11,9 +11,14 @@ Added first HTML page
 [John Baskerville2](https://jasminwiniarski.github.io/john_baskerville/john_baskerville2.html)
 
 #### 12 November 2018
-[John Baskerville](https://jasminwiniarski.github.io/john_baskerville/john_baskerville3.html)
+[John Baskerville3](https://jasminwiniarski.github.io/john_baskerville/john_baskerville3.html)
 
 Added tables and images
+
+#### 19 Novemver 2018
+[John Baskerville4](https://jasminwiniarski.github.io/john_baskerville/john_baskerville4.html)
+
+created CSS version
 
 ## History of Type
 #### homework week 6
