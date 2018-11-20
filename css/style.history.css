@@ -1,0 +1,147 @@
+/* --------------------CSS RESET-------------------*/
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em
+ }
+        
+/*-----------------MAIN STYLING-------------------*/
+
+body{
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+    background-color: #fafafa;
+    color: #3f3535; 
+    font-family: sans-serif
+}
+
+h1, h2, h3{
+    text-align: center;
+    font-weight: normal;
+    color: #7b0a0a;
+    font-family: serif;
+}
+
+p, li, blockquote{
+    margin-bottom: 2em;
+    line-height: 1.3; 
+    margin-top: 2em
+ }
+
+h1{
+    font-size: 3.998em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+h2{
+    font-size: 2.827em;
+    margin-bottom: 30px;
+    background-color: #D6C1CB;
+    padding: 5px
+}
+h3{
+   font-size: 1.999em; 
+}
+header p{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/*-------------------TABLE---------------------*/
+table{
+    margin: 1em 0 2em 0;
+    border-collapse: collapse;
+    width: 100%;  
+}
+
+table, th, td{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+h2.list{
+    margin-bottom: 0.5em;
+}
+
+caption{
+    margin: 2em 0 2em 0;
+    
+}
+tr:nth-child(even) {background-color: #f2f2f2;}  
+th{
+    background-color: #3f3535;
+    color: white;
+}
+
+
+blockquote{
+    hanging-punctuation: first;
+    text-indent: -0.5em;
+    
+}
+/*--------------- BLOCKQUOTE-------------------*/
+
+blockquote{
+    font-size: 1.75em;
+    line-height: 1.3;
+    color: #777;
+}
+
+blockquote cite {
+    font-size: 0.75em;
+}
+    
+/*----------------IMAGES-----------------*/
+
+img {
+    display: block;
+    margin: 1em auto;
+    padding: 0;
+    max-width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+}
+/*----------------NAVIGATION-------------------*/
+
+nav{
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #3f3535;
+    padding: 0.5em 0;
+    font-size: 1em;
+    text-decoration: none; 
+}
+
+nav ul{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav ul li{
+    margin: 10px;
+    list-style-type: none;
+    
+}
+nav a:link {color: white}
+
+nav a:visited {color: white}
+
+nav a:hover{border-bottom: none; color: crimson;}
+
+        
+/*------------FOOTER----------------*/
+footer{
+     text-align: center;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    padding: 2em 0 ;
+}
+
+        
