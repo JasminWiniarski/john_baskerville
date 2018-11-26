@@ -20,6 +20,10 @@ Added tables and images
 
 created CSS version
 
+#### 26 November 2018
+
+[John Baskerville5](https://jasminwiniarski.github.io/john_baskerville/john_baskerville5.html)
+
 ## History of Type
 #### homework week 6
 
