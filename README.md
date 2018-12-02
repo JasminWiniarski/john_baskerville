@@ -42,3 +42,8 @@ added table and images
 [History of Type 4](https://jasminwiniarski.github.io/john_baskerville/historyoftype4.html)
 
 adding CSS
+
+#### homework week 10 01Dec2018
+[History of Type 5](https://jasminwiniarski.github.io/john_baskerville/historyoftype5.html) 
+
+adding google fonts
