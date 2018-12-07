@@ -1,0 +1,217 @@
+/* -----CSS RESET-----*/
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em
+}
+
+/* ------MAIN STYLING------ */
+body {
+    
+    background: #fafafa;
+    color: #222;
+    font-family: 'Libre Baskerville', serif;
+}
+
+section, header, footer {width: 75%;
+    max-width: 670px;
+    margin: auto;}
+
+h1, h2, h3 {
+    font-weight: normal;
+    color: #489eb0;
+    text-align: center;
+}
+
+p, li, blockquote{
+    margin-bottom: 1.5em;
+    line-height: 1.4; 
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1{
+    font-size: 3.998em;
+    margin-top: 1em;
+    margin-bottom: 0.1em;
+}
+
+h2{
+    font-size: 2.827em;
+    margin: 1em 0 
+        /*goes like clockwork : margin 1em 0 4 em 0 top, right, bottom, left*/ 
+}
+h3{
+    font-size: 1.999em;
+}
+
+blockquote{
+    hanging-punctuation: first;
+    text-indent: -0.5em;
+}
+header h2{
+    font-style: italic;
+    font-size: 2.35em;
+    line-height: 1.5;
+    margin-top: 0.1em;
+    color: #333;       
+}
+
+.dark {
+    background: #333;
+    color: #f9f9f9;
+    padding: 1em;
+}
+
+
+.eaves{
+    color: #489eb0;
+}
+/*--------STYLING LINKS-------------*/
+
+a{
+    color: #489eb0;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: #005674;
+    border-bottom: 1px;
+}
+
+/*---------NAVIGATION---------*/
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #186571;
+    padding: 1em o;
+    font-size: 1em; 
+}
+
+nav ul{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+nav ul li{
+    display: inline;
+    margin: 20px;
+    
+}
+nav a:link {color: white}
+
+nav a:visited {color: white}
+
+nav a:hover{border-bottom: none; color: black;}
+
+/*--------------- BLOCKQUOTE-------------------*/
+
+blockquote{
+    padding: 1em 0 4em 0;
+    font-size: 1.75em;
+    line-height: 1.3;
+    color: #777;
+}
+
+blockquote cite {
+    font-size: 0.75em;
+}
+/*----------------IMAGES-----------------*/
+
+img {
+    display: block;
+    margin: 4em auto;
+    padding: 0;
+    max-width: 100%;
+}
+/*---------------Table----------------*/
+table{
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+}
+caption{
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+th{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #186571;
+}
+th,td{
+    padding: 0.8em;
+}
+table, td{
+    background: #BFBEBB;
+    border: 2px solid #fff;
+}
+
+/*-------------FOOTER--------------*/
+footer{
+    text-align: center;
+    font-size: 0.75em;
+    line-height: 1.5em;
+    padding: 2em 0 ;
+
+    
+}
+.connections{
+    position: relative;
+    margin: 0 auto;
+    margin: 20, 0px;
+}
+.connections ul{
+    margin: 0;
+    padding: 0;
+}
+.connections li{
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;  
+}
+.connections a:link{
+    border-bottom: none;
+}
+.connections img,
+.connections svg{
+    color: crimson;
+    opacity: 0.5;
+    border: none;
+}
+.connections a:hover img,
+.connections a:hover svg{
+    opacity: 1.0;
+    border-bottom: none;
+    color: crimson;
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.3);
+}
+
+.connections svg {
+        margin: 4em auto;
+}
+
+.connections a:hover svg path {
+        fill: #489eb0;
+}
+
+/*change color, maybe add background color/background image */
+
+/*ugliest color that contrasts witch everything #8080ff;*/
+
+  
+
+
+
+
